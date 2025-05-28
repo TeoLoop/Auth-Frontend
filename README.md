@@ -80,6 +80,15 @@ La aplicación estará disponible en `http://localhost:5173`
 - **Error handling** con mensajes descriptivos
 - **Navegación automática** post-autenticación
 
+### 📷 Capturas de Pantalla
+![image](https://github.com/user-attachments/assets/daa62da6-8c50-4788-887b-3843634487e2)
+![image](https://github.com/user-attachments/assets/ac1eabb7-c1f9-4252-8968-f25383e1ff5d)
+
+![image](https://github.com/user-attachments/assets/10bcfbb3-5dde-466d-a011-3bb031de5a3b)
+![image](https://github.com/user-attachments/assets/74b84812-242d-49f5-b3bc-d8e55df23838)
+
+
+
 
 
 ## 🐛 Troubleshooting
